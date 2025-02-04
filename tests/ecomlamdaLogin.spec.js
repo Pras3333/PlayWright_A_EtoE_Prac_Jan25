@@ -1,3 +1,6 @@
+//This is an end to end test for the below web application.
+
+
 const { test, expect } = require('@playwright/test');
 
 test('login', async ({ page }) => {
